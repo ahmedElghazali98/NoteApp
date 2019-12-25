@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551408241899",
+    "firebase_url": "https://noteapplications-5d14b.firebaseio.com",
+    "project_id": "noteapplications-5d14b",
+    "storage_bucket": "noteapplications-5d14b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551408241899:android:85322068e793037cd002ae",
+        "android_client_info": {
+          "package_name": "com.ahmedElghazali.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551408241899-0lq97fp5tlvvm0mn0n7d6l82tc2l72i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbyiZGF4o9K85nXBGJzwDFAkyGaB2-Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551408241899-0lq97fp5tlvvm0mn0n7d6l82tc2l72i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
